@@ -1,1 +1,0 @@
-# TransferLearning_HandGesture_Assignment
